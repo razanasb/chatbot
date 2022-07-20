@@ -1,2 +1,9 @@
 # chatbot
-Convert speech into plain text automatically 
+Convert speech into plain text automatically
+The advantages of this bot is that it responds to you if you tell it
+(السلام عليكم ورحمة الله وبركاته) with (وعليكم السلام ورحمة الله وبركاته)
+and (كيف حالك) with (بخير الحمدلله)
+And if you ask him about smart methods, he will give you information about them
+(ما هي الاساليب الذكية)
+with 
+(مؤسسة تجارية وطنية تأسست عام 2010 م مسجلة لدى وزارة التجارة ومتخصصة في المعدات الآلية والروبوت والذكاء الصناعي وتعتبر المنشأة التجارية الأولى من نوعها بالمملكة العربية السعودية في مجال الروبوت والذكاء الصناعي والتحكم الآلي ومصنفة لدى مجلة فوربس العالمية كأحد أكثر الشركات ابداعا في المملكة العربية السعودية في أخر تصنيف عام 2015 و مصنفة لدى الهيئة السعودية للمنشآت (منشآت) كواحدة من أكثر الشركات ابتكارا في 2021 )
